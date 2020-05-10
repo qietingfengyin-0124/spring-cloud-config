@@ -1,2 +1,2 @@
-# spring-cloud-config
-测试专用
+server:
+  port: 8888
